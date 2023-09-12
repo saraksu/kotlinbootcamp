@@ -1,0 +1,1 @@
+https://medium.com/@sara.aksu97/firebase-ve-firestore-133e3db96b56
